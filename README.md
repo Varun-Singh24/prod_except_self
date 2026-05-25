@@ -61,4 +61,4 @@ class Solution {
 ```
 
 # 🤝 Contributing
-##  Thankyou : Varun Pratap Singh 😎🤠
+##  Thankyou : Varun Pratap Singh 😎
